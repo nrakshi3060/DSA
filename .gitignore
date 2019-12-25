@@ -1,0 +1,14 @@
+/.idea/
+/target/classes/com/rak/dsa/Application.class
+/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+/target/dsa-1.0.0-SNAPSHOT.jar
+/target/dsa-1.0.0-SNAPSHOT.jar.original
+/.gradle/4.10.3/fileHashes/fileHashes.bin
+/.gradle/4.10.3/fileHashes/fileHashes.lock
+/.gradle/4.10.3/gc.properties
+/.gradle/vcs-1/gc.properties
+/target/classes/com/rak/dsa/HelloController.class
+/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+/.gradle/4.10.3/fileChanges/last-build.bin
+/target/maven-archiver/pom.properties
+/.java-version
