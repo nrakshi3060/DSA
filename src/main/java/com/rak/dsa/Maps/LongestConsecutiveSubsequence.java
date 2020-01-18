@@ -6,7 +6,7 @@ import java.util.List;
 import java.util.Set;
 
 public class LongestConsecutiveSubsequence {
-    List<Integer> LongestConsecutiveSubsequence(int[] arr){
+    List<Integer> findLongestConsecutiveSubsequence(int[] arr){
         Set<Integer> set = new HashSet<>();
         List<Integer> consecutiveSubsequence = new ArrayList<>();
         int maxCount = 0;
